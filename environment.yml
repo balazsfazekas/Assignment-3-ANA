@@ -4,13 +4,7 @@ channels:
   - defaults
 dependencies:
   - matplotlib=3.3.2=0
-  - matplotlib-base=3.3.2=py38hba9282a_0
   - numpydoc=1.1.0=pyhd3eb1b0_1
-  - pandoc=2.11=h9490d1a_0
-  - pandocfilters=1.4.3=py38haa95532_1
-  - scikit-image=0.17.2=py38h1e1f486_0
-  - scikit-learn=0.23.2=py38h47e9c7a_0
-  - scipy=1.5.2=py38h14eb087_0
   - seaborn=0.11.0=py_0
   - pip:
     - numpy==1.20.2
