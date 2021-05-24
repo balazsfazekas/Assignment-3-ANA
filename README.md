@@ -1,5 +1,3 @@
-# Assignment-3-ANA
-
 numpy==1.20.2
 pandas==1.2.4
 sklearn==0.0
